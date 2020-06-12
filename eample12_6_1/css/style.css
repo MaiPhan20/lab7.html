@@ -1,0 +1,17 @@
+table {
+    width: 1000px;
+    height: auto;
+    border: 0px solid #CCC;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    border: none;
+}
+.hello{
+    border-collapse: collapse;
+}
+.ha{
+    background-color: gray;
+}
